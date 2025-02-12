@@ -1,0 +1,37 @@
+# Ignore virtual environment directory
+chatbot_env/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment-specific files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore node modules (if you have any)
+node_modules/
+
+# Ignore any other temporary or system files
+*.tmp
+*.bak
+*.swp
+*.swo
